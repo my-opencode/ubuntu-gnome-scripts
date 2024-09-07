@@ -6,8 +6,9 @@ Must be set to executable `chmod +x script-file-name.sh`
 ## List
 
 - install-appimage.sh
-      - Simplifies integrating .AppImage applications with the Gnome application directory.
-      - Takes the path to the .AppImage file as argument
+  - Info
+    - Simplifies integrating .AppImage applications with the Gnome application directory.
+    - Takes the path to the .AppImage file as argument
   - Makes the .AppImage executable.
   - Places the .AppImage file to the ~/Application directory (customizable).
   - Extracts the icon from the .AppImage and places it in the ~/Application directory.
